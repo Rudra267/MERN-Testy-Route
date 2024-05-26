@@ -16,7 +16,6 @@
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/bb883e51-06c2-4bbf-aead-b081b7446a99![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/1bcec75c-0036-47fa-98c8-8d37287b19a0" alt=""/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/b42e85a1-d3e9-4c50-af9d-ab510beb5302![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/b458308e-36ad-4bae-a618-a29f6ba9c427" alt=""/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/5a02a241-50f5-4255-a347-d8dc5a8151b6![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/8127f7c5-aefd-4f62-a49c-6ee2078e7174" alt=""/>
-<h3>Edit Profile Preferences<h3/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/821e888a-0212-4295-a6d4-8ca03930bd84![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/3f230128-e178-4f81-9d27-19addfbc1680" alt=""/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/bb88e2e0-2a3c-4701-92f6-cbbc48e32152![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/ea3b22e8-b4ec-47e0-b735-26e3f36bd7ff" alt=""/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/19d42870-f708-446a-9614-a9a5ecd5f674![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/79c3d1e2-eff1-483c-9b39-81bd596f0ba7" alt=""/>
