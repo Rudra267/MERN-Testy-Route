@@ -1,0 +1,123 @@
+.outerDiv{
+    width: 300px;
+    height: auto;
+    max-height: 350px;
+    margin: 0.5rem;
+    border: 1px solid #000;
+    border-radius: 5px;
+    
+}
+
+.innerDiv{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.topBar{
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid ;
+    border-spacing: 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftHead{
+    display: flex;
+}
+
+.imgBox{
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+.img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.det{
+    margin: 0 0.5rem;
+}
+
+.name{
+    font-size: 1.1rem;
+    font-weight: 500;
+    text-overflow: ellipsis;
+}
+
+.address{
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #000;
+    text-overflow: ellipsis;
+}
+
+.status{
+    font-size: 1rem;
+    color: green;
+    font-weight: 600;
+}
+
+.midBar{
+}
+
+.txtBox{
+    margin: 10px 0;
+}
+
+.titleTxt{
+    font-size: 0.8rem;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color:#E01A1A;
+}
+
+.itemDet{
+    display: flex;
+    align-items: center;
+}
+
+.cross{
+    margin: 0 5px;
+    font-size: 0.7rem;
+    font-weight: 500;
+}
+
+.vlaTxt{
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: rgb(21, 116, 21);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.footerBar{
+    width: 100%;
+}
+
+.viewBtn{
+    padding: 10px;
+   margin-bottom: 8px;
+    float: right;
+    border: #E01A1A;
+    color:#fff;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #E01A1A;
+}
+
+.viewBtn:hover{
+    background-color: #e01a1ad7;
+}
+
+@media all and (max-width: 420px){
+    .outerDiv{
+        width: 300px;
+    }
+}
