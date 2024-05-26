@@ -15,13 +15,10 @@
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/91d04bf3-47d9-4a56-87dd-5db8555aeedb![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/ff34f5a9-6d71-49a7-a348-4f1139b4901d" alt=""/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/bb883e51-06c2-4bbf-aead-b081b7446a99![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/1bcec75c-0036-47fa-98c8-8d37287b19a0" alt=""/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/b42e85a1-d3e9-4c50-af9d-ab510beb5302![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/b458308e-36ad-4bae-a618-a29f6ba9c427" alt=""/>
-<h3>Profile account options<h3/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/5a02a241-50f5-4255-a347-d8dc5a8151b6![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/8127f7c5-aefd-4f62-a49c-6ee2078e7174" alt=""/>
 <h3>Edit Profile Preferences<h3/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/821e888a-0212-4295-a6d4-8ca03930bd84![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/3f230128-e178-4f81-9d27-19addfbc1680" alt=""/>
-<h3>Profile Page<h3/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/bb88e2e0-2a3c-4701-92f6-cbbc48e32152![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/ea3b22e8-b4ec-47e0-b735-26e3f36bd7ff" alt=""/>
-<h3>Card Page</h3>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/19d42870-f708-446a-9614-a9a5ecd5f674![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/79c3d1e2-eff1-483c-9b39-81bd596f0ba7" alt=""/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/1b278ea7-73a7-47cd-ac96-dfd9f4fc9786![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/d138baea-015c-4250-b2ac-c3bda7c9ebe7" alt=""/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/a3235ba1-3ce7-4267-bdf4-5ca6e1f50e4b![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/f91dd728-6089-453a-a673-6a764e94839b" alt=""/>
