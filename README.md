@@ -1,1 +1,2 @@
-<h1 style="color:red">Project Images - </h1>
+<h1>Project Images : </h1>
+<hr/>
