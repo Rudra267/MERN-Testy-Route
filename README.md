@@ -6,7 +6,6 @@
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/4f47c573-2c21-4560-a707-1d23e388ebcf![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/5f82aa47-ee33-4801-b53b-8dd9a298ae43" alt=""/>
 <hr/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/ece35b68-7bc9-4828-9a04-764a9c94487a![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/ce0c92e3-17ab-411e-96a8-3fdbc1604b9f" alt=""/>
-<h3>Sidebar Cart Page<h3/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/128d4fc3-9744-41df-926b-ce7d8e853da6![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/6199b82c-b25a-4430-8240-674667f87d16" alt=""/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/813f2a70-9722-4ce8-bc67-77f478a0431c![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/755a5e57-5ea0-48dc-b58c-837588cba8c9" alt=""/>
 <img src="https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/a726a834-d317-418b-84a4-74a558211da2![image](https://github.com/Rudra267/MERN-Testy-Route/assets/122002449/c0627488-83e3-4628-99f2-d01cefb5d49a" alt=""/>
